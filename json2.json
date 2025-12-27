@@ -1,0 +1,2255 @@
+{
+  "recommendations": [
+    {
+      "crop": "Rice",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Arhar/Tur",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Bajra",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Banana",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Cashewnut",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Castor seed",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Coconut",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Coriander",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Cotton(lint)",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Dry chillies",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Groundnut",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Jowar",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Maize",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Moong(Green Gram)",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Onion",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Ragi",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Sugarcane",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Sunflower",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Sweet potato",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Tapioca",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Turmeric",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Urad",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Small millets",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Sesamum",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Horse-gram",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Tobacco",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Black pepper",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Cardamom",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Gram",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Pulses total",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Total foodgrain",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Wheat",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Sannhamp",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Korra",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Samai",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Guar seed",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Other Cereals & Millets",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Other Kharif pulses",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Rapeseed &Mustard",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Varagu",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Arecanut",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Ash Gourd",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Beans & Mutter(Vegetable)",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Beet Root",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Bhindi",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Bitter Gourd",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Bottle Gourd",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Brinjal",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Cauliflower",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Citrus Fruit",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Cucumber",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Drum Stick",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Garlic",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Grapes",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Jack Fruit",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Lab-Lab",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Mango",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Orange",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Other Citrus Fruit",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Other Fresh Fruits",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Other Vegetables",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Papaya",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Pome Fruit",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Pome Granet",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Redish",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Ribed Guard",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Snak Guard",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Tomato",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Water Melon",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Yam",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Black_gram",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "DAP (18-46-0)",
+        "Urea",
+        "MOP"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "DAP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 20 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Cabbage",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Pump Kin",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Dry ginger",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Soyabean",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Potato",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Carrot",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Pineapple",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Mesta",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Apple",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Peach",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Pear",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Plums",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Turnip",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Jute",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Litchi",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Niger seed",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Ber",
+      "soil_type": "Unknown",
+      "pH": 7.0,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea (N)",
+        "SSP (P)",
+        "MOP (K)"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 50 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 60 kg/acre at vegetative",
+          "Urea - 40 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Green_gram",
+      "soil_type": "Unknown",
+      "pH": 6.8,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Medium",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea",
+        "SSP",
+        "MOP"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 40 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 15 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Pigeon_pea",
+      "soil_type": "Unknown",
+      "pH": 6.9,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "DAP",
+        "Urea",
+        "MOP"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "DAP - 60 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 25 kg/acre at pod initiation"
+        ]
+      }
+    },
+    {
+      "crop": "Cotton",
+      "soil_type": "Black soil",
+      "pH": 7.2,
+      "nutrient_status": {
+        "Nitrogen": "Medium",
+        "Phosphorus": "Low",
+        "Potassium": "Medium"
+      },
+      "recommended_fertilizers": [
+        "Urea",
+        "SSP",
+        "MOP"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 60 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 40 kg/acre at squaring stage",
+          "Urea - 30 kg/acre at flowering"
+        ]
+      }
+    },
+    {
+      "crop": "Sorghum",
+      "soil_type": "Loamy",
+      "pH": 6.7,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Medium",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea",
+        "SSP",
+        "MOP"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 40 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 30 kg/acre at tillering",
+          "Urea - 20 kg/acre at boot stage"
+        ]
+      }
+    },
+    {
+      "crop": "Pearl_millet",
+      "soil_type": "Sandy soil",
+      "pH": 7.1,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Medium"
+      },
+      "recommended_fertilizers": [
+        "Urea",
+        "SSP",
+        "MOP"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 30 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 25 kg/acre at tillering"
+        ]
+      }
+    },
+    {
+      "crop": "Finger_millet",
+      "soil_type": "Red soil",
+      "pH": 6.5,
+      "nutrient_status": {
+        "Nitrogen": "Low",
+        "Phosphorus": "Low",
+        "Potassium": "Low"
+      },
+      "recommended_fertilizers": [
+        "Urea",
+        "SSP",
+        "MOP"
+      ],
+      "application_schedule": {
+        "Basal": [
+          "SSP - 25 kg/acre"
+        ],
+        "Top Dressing": [
+          "Urea - 20 kg/acre at vegetative stage"
+        ]
+      }
+    }
+  ]
+}
